@@ -7,6 +7,21 @@
 @import url('fontawesome-all.min.css');
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
 
+// Component.
+
+@import 'components/box';
+@import 'components/button';
+@import 'components/form';
+@import 'components/icon';
+@import 'components/image';
+@import 'components/list';
+@import 'components/actions';
+@import 'components/icons';
+@import 'components/section';
+@import 'components/table';
+@import 'components/poptrox-popup';
+@import 'components/gallery';
+
 /*
 	Landed by HTML5 UP
 	html5up.net | @ajlkn
@@ -274,6 +289,8 @@
 	.align-right {
 		text-align: right;
 	}
+
+
 
 /* Loader */
 

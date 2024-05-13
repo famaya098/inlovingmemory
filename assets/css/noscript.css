@@ -13,3 +13,8 @@
 	body.landing.is-preload:after {
 		display: none;
 	}
+
+
+	body:before, body:after {
+		display: none;
+	}
